@@ -1,0 +1,75 @@
+database-exercicios-introdutorios/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       └── atividade.md
+├── exercicio-01-catalogo-musical/
+│   ├── docs/
+│   │   ├── diagramas/
+│   │   │   └── README.md
+│   │   ├── evidencias/
+│   │   │   └── README.md
+│   │   ├── prompts/
+│   │   │   └── geracao-dados.md
+│   │   ├── der.md
+│   │   ├── mer.md
+│   │   ├── regras-de-negocio.md
+│   │   └── requisitos.md
+│   ├── sql/
+│   │   ├── 01_ddl.sql
+│   │   ├── 02_dml.sql
+│   │   └── 03_dql.sql
+│   └── README.md
+├── exercicio-02-clinica/
+│   ├── docs/
+│   │   ├── diagramas/
+│   │   │   └── README.md
+│   │   ├── evidencias/
+│   │   │   └── README.md
+│   │   ├── prompts/
+│   │   │   └── geracao-dados.md
+│   │   ├── der.md
+│   │   ├── mer.md
+│   │   ├── regras-de-negocio.md
+│   │   └── requisitos.md
+│   ├── sql/
+│   │   ├── 01_ddl.sql
+│   │   ├── 02_dml.sql
+│   │   └── 03_dql.sql
+│   └── README.md
+├── exercicio-03-eleicao/
+│   ├── docs/
+│   │   ├── diagramas/
+│   │   │   └── README.md
+│   │   ├── evidencias/
+│   │   │   └── README.md
+│   │   ├── prompts/
+│   │   │   └── geracao-dados.md
+│   │   ├── der.md
+│   │   ├── mer.md
+│   │   ├── regras-de-negocio.md
+│   │   └── requisitos.md
+│   ├── sql/
+│   │   ├── 01_ddl.sql
+│   │   ├── 02_dml.sql
+│   │   └── 03_dql.sql
+│   └── README.md
+├── exercicio-04-revendedora/
+│   ├── docs/
+│   │   ├── diagramas/
+│   │   │   └── README.md
+│   │   ├── evidencias/
+│   │   │   └── README.md
+│   │   ├── prompts/
+│   │   │   └── geracao-dados.md
+│   │   ├── der.md
+│   │   ├── mer.md
+│   │   ├── regras-de-negocio.md
+│   │   └── requisitos.md
+│   ├── sql/
+│   │   ├── 01_ddl.sql
+│   │   ├── 02_dml.sql
+│   │   └── 03_dql.sql
+│   └── README.md
+├── .gitignore
+├── CONTRIBUTING.md
+└── README.md
